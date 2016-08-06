@@ -1,0 +1,24 @@
+{
+  "name": "phpUtility/phpUtility",
+  "type": "library",
+  "description": "This Class consists of functions which we as a developer use in general.eg function for curl get, xml to assocative array, string to key value and much more.",
+  "keywords": ["utility","helper","php"],
+  "homepage": "https://github.com/ayazshakoor/phpUtility",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Imran Naqvi",
+      "email": "imrannaqvi83@yahoo.com",
+      "homepage": "http://www.imrannaqvi.com/",
+      "role": "Developer"
+    },
+    {
+      "name": "Ayaz Shakoor",
+      "email": "ayaz_khokhar58@hotmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
