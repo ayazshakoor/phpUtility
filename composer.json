@@ -1,5 +1,5 @@
 {
-  "name": "phpUtility/phpUtility",
+  "name": "php-utility/php-utility",
   "type": "library",
   "description": "This Class consists of functions which we as a developer use in general.eg function for curl get, xml to assocative array, string to key value and much more.",
   "keywords": ["utility","helper","php"],
